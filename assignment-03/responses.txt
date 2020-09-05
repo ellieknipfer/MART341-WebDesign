@@ -1,0 +1,12 @@
+Provide three websites that you enjoy visiting?
+1.
+2.
+3.
+What is the relationship between an IP address and the DNS?
+What is a cookie?
+List the three essential parts of a URL.
+1. Protocol
+2. Domain name
+3. Directory
+In your README.md, use Markdown and add the title "Assignment 3" with a heading 1. Underneath, add your name as a heading 2.
+Add a list of 3 things you've learned so far.
