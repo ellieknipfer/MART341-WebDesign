@@ -1,12 +1,12 @@
 Provide three websites that you enjoy visiting?
-1.
-2.
-3.
-What is the relationship between an IP address and the DNS?
-What is a cookie?
+1. https://www.pinterest.com
+2. https://moodle.umt.edu
+3. https://google.com
+What is the relationship between an IP address and the DNS? IP addresses are assigned to every device connected to the internet. The Domain Name System associates domain names with the corresponding IP address. Computers use the DNS to lookup domain names to get the correct IP address. This connects the commputer to the correct destination. 
+What is a cookie? A cookie is a type of message that is given to a web browser by a web server. Cookies identify users and track website activities. When you visit a site, the server gives you a cookie. When you return to that site, the browser passes the cookie back to the server. The data stored from cookies saves login information or preferences.
 List the three essential parts of a URL.
 1. Protocol
 2. Domain name
-3. Directory
+3. Paths
 In your README.md, use Markdown and add the title "Assignment 3" with a heading 1. Underneath, add your name as a heading 2.
 Add a list of 3 things you've learned so far.
