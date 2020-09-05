@@ -1,7 +1,7 @@
 # Assignment 3
 ## Ellie Knipfer
 
-[Absolute URl to frequently visted site](https://www.google.com)
+[Absolute URL to a frequently visted site](https://www.google.com)
 
 [Relative URL to response.txt](../assignment-03/responses.txt)
 
