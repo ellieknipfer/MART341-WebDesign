@@ -1,8 +1,8 @@
 # Assignment 3
 ## Ellie Knipfer
 
-[Google](www.google.com)
+[Absolute URl to frequently visted site](www.google.com)
 
-[Relative reference to response.txt](../assignment-03/responses.txt)
+[Relative URL to response.txt](../assignment-03/responses.txt)
 
-![Relative URl to screenshot](./img/atom-screenshot-1.png)
+![Relative URl to screenshot](./assignment-01/images/atom-screenshot-1.png)
