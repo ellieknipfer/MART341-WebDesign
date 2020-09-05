@@ -5,4 +5,4 @@
 
 [Relative URL to response.txt](../assignment-03/responses.txt)
 
-![Relative URl to screenshot](./assignment-01/images/atom-screenshot-1.png)
+![Relative URl to screenshot](./images/atom-screenshot-1.png)
