@@ -3,4 +3,4 @@
 
 [Google](www.google.com)
 
-[Relative reference to response.txt](https://github.com/ellieknipfer/MART341-WebDesign/blob/master/assignment-03/responses.txt)
+[Relative reference to response.txt](../assignment-03/responses.txt)
