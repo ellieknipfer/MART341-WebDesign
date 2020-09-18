@@ -1,0 +1,3 @@
+1. Wayback Machine: I went to Amazon. It looks completely different than today. All of the text under *browse* appear on the page as hyperlinks. Now, although they function the same way, they are not blue and underlined. The site almost looks fake. When I click on a site that looks like this one today, I would think it was spam or not reliable. The text, graphics, and tabs are not seamless like they are now.
+2. I learned different aspects of HTML; one-tag elements, two-tag elements, heading, paragraphs, links, images, etc. I learned how to upload repositories from the GitHub desktop. I had some difficulties with links and pictures at first but was able to figure it out.
+3. 
