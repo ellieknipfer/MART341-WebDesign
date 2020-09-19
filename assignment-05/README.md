@@ -4,5 +4,7 @@
 2. I learned different aspects of HTML; one-tag elements, two-tag elements, heading, paragraphs, links, images, etc. I learned how to upload repositories from the GitHub desktop.
 Overall, It took me some time to understand how to navigate Atom, GitHub Desktop and Github all together.
 I had some difficulties with links and pictures at first but was able to figure it out. I also had a "DS Store" file that showed up when I pushed the repository to Github. I deleted it from desktop and atom, committed the changes and pushed it again. That worked but I am not sure what that was or where it came from. I am also not sure what the screenshot should be of. It was listed under completing both pages, so I took a screenshot of both pages.
-3. Screenshot of about.html and index.html
+3. Screenshots of about.html and index.html
 ![About.html screenshot](./images/about-screenshot.png)
+
+![index.html screenshot](./images/index-screenshot.png)
