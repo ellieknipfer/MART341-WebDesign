@@ -1,6 +1,7 @@
 1. *Describe any forms you've come across while browsing the web. What purposes do they serve?*
 
 I come across forms everyday. Almost every ad I am served includes a form. Usually they are text entries asking for an email address, name and phone number. There are also forms anytime I visit a site to login with text entries for my username and a password input.
+
 2. *List examples of a text, selection, and button input, and their usage*
 
   **Text**: Examples of text inputs are text boxes on email sign up for first name, last name, birthday, phone number. They are used so users can type information that is available to the browser. The text area input allows users to leave comments or concerns. These are frequently used for reviews.
