@@ -1,0 +1,5 @@
+1. *Briefly describe the difference between divs, classes, ids, and spans.*
+The id attribute is a unique identifier specific to that element. It should be added to any element that is styled independently. Div is an element that offers a block-level element to group other elements together. Divs can be singular or nested and also increases structural clarity. The span element is the inline equivalent of the div element. Spans can be within divs and do not produce full-width blocks. It helps to identify or group context together.
+2. *Talk about the advantages and disadvantages of using a service like YouTube or Vimeo to host your videos?*
+The advantages of using Service-Hosted videos like Vimeo or YouTube are videos are easily embedded, endless content choices (with permission), those sites are built to store large files, and the content is compatible with current versions of major web browsers. The disadvantages are it can be costly to upgrade storage on those sites if you are using a lot of content and there is a loss of control associated with hosting on YouTube or Vimeo.
+3. *Free Response: What challenges did you have this week? How did you overcome them?*
