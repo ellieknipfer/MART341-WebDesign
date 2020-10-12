@@ -9,3 +9,4 @@ The advantages of using Service-Hosted videos like Vimeo or YouTube are videos a
 3. *Free Response: What challenges did you have this week? How did you overcome them?*
 
 When I first loaded my page, the map did not load correctly because I did not copy the "embed a map" link. I went back and copied the correct link and it worked. I really did not have challenges with anything during this assignment. The walkthrough video was very helpful.
+I did have a question regarding the layout of HTML. Under the example in "Building a Page (step-by-step)" and all of the other codepen examples, the text and layout seems to be different than the other examples. For instance, the image tag used ends in "/>" instead of ">". Does that change the way things are displayed? The indentations are also different than mine. Does that make difference as well?
