@@ -16,9 +16,10 @@
       h1 {
         text-align: center;
       }
-      div {
+      .main {
         background-color: lightgray;
-        text-align: center;
+        width: 50%;
+        margin: auto;
       }
       </style>
 
@@ -31,14 +32,14 @@
       <a href="./about.html">About</a> &vert;
     </nav>
 
-    <div id="contact"
+    <div id="contact" class="main">
     <form action="/contact.html" method="post" id="contact form" class="basic-forms"
      <label for="fname">First name:</label>
-     <input type="text" id="fname" name="fname">
+     <input type="text" id="fname" name="fname"><br>
      <label for="lname">Last name:</label>
-     <input type="text" id="lname" name="lname">
+     <input type="text" id="lname" name="lname"><br>
      <label for="email">Email:</label>
-     <input type="text" id="email" name="email">
+     <input type="text" id="email" name="email"><br>
      <p>Feedback, suggestions, or questions?
        <textarea name="comments" id="textarea"> </textarea>
        </p>
