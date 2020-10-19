@@ -17,12 +17,19 @@
       h1 {
         text-align: center;
       }
-      div {
+      .intro {
+        background-color: white;
+        text-align: center;
+        width: 50%;
+        margin: auto;
+      }
+      .main {
         background-color: lightgray;
         text-align: center;
         width: 50%;
         margin: auto;
       }
+
       table, td, th {
         border: 1px solid black;
         border-collapse: collapse;
@@ -35,13 +42,7 @@
       }
       th {
         background-color: white;
-      }
-      ul li {
-        display: inline;
-      }
-      ol li {
-        display: inline;
-      }
+
 
       </style>
 
@@ -60,10 +61,8 @@
     <h2>Turkey Burger Recipe</h2>
 
 <br />
-    <img src="./images/burger.jpeg" alt="Turkey burdger image" width="300" height="300" style="float: right;">
 
-<br />
-
+    <div id="table" class="intro">
     <table>
       <tr>
         <th scope="row">Prep Time</th>
@@ -78,9 +77,10 @@
         <td>4 servings</td>
       </tr>
     </table>
+    <img src="./images/burger.jpeg" alt="Turkey burdger image" width="300" height="300" style="float: right;">
+    </div>
 
-
-    <div id="ingredients">
+    <div id="ingredients" class="main">
       <h3>Ingredients</h3>
       <ul>
         <li>1 pound of ground turkey</li>
