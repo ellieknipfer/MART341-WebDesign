@@ -4,7 +4,7 @@ Learning HTML was 100% new to me. The only time I did any sort of web design was
 
 2. *Next module we continue with CSS and expand on styling, which helps us "decorate" HTML. Is there anything you're anxious or excited to learn about in this new section?*
 
-I am very excited to learn more about CSS. I am also very anxious because I feel like I still do not have a strong understanding of HTML. I felt confident up until this week and now I may have things confused. I am going to spend time going back through the past couple of weeks and make sure I fully understand. I think what is challenging me so much is that there seems to be so many ways to do one thing. When I am comparing the website, W3 schools and other resources, they all show slightly different ways to achieve the same thing.
+I am very excited to learn more about CSS. I am also very anxious because I feel like I still do not have a strong understanding of HTML. I felt confident up until this week and now I may have things confused. I am going to spend time going back through the past couple of weeks and make sure I fully understand. I think what is challenging me so much is that there seems to be so many ways to do one thing. When I am comparing the website, W3 schools and other resources, they all show slightly different ways to achieve the same thing. For instance, a problem I had this module was that codepen showed an example of nav using href="./index.html". That wouldn't work for me, so after some research I did it without "./" and it worked. Should I have known not to use "./"? 
 
 3. *Free Response: Summarize your challenges and successes.  What did you do to overcome your challenges?*
 
