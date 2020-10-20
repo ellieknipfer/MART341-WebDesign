@@ -8,7 +8,8 @@ I am very excited to learn more about CSS. I am also very anxious because I feel
 
 3. *Free Response: Summarize your challenges and successes.  What did you do to overcome your challenges?*
 
-This was the hardest module for me. When I first loaded my page, it looked crazy! I spent hours trying to fix the formatting. I am not happy with the way my pages turned out. My biggest issues were:
+This was the hardest module for me. When I first loaded my page, it looked crazy! I spent hours trying to fix the formatting. I am not happy with the way my pages turned out.
+My biggest issues were:
 
 -Centering lists within divs. I could center align the text but the bullets stayed to the left.
 
