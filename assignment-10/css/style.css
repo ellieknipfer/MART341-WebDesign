@@ -1,0 +1,42 @@
+body{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.main-container {
+  /* Draw a white border 10px think. */
+  border-style: double;
+  border-width: 10px;
+  border-color: white;
+  /* Add a space between the border and the inside elements */
+  padding: 10px;
+  /* Color the background indianred. */
+  background-color: darksalmon;
+  opacity: 90%;
+  width: 75%;
+  margin: auto;
+}
+
+div.align{
+    text-align: center;
+}
+
+.secondary-container{
+
+  margin: auto;
+  width: 50%;
+  padding: 50px;
+  border-bottom: thick double #4B6F44;
+  border-spacing: inherit;
+}
+
+#mainheader{
+  position: relative;
+  left: 20px;
+  top: 5px;
+  color: black;
+  font-size: 40px;
+}
+
+h2{
+  text-align: center;
+}
