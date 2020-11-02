@@ -1,0 +1,98 @@
+div{
+    text-align: center;
+    line-height: 1.5em;
+    font-family: 'Oswald', sans-serif;
+    margin: auto;
+    padding: 10px;
+    background-color: lightgrey;
+}
+
+h1, h2, h3, h5{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+p{
+    font-family:  'Oswald', sans-serif;
+    text-align: center;
+}
+
+
+.main-container {
+    /* Draw a white border 10px think. */
+    border-style: double;
+    border-width: 10px;
+    border-color: white;
+    /* Add a space between the border and the inside elements */
+    padding: 45px;
+    /* Color the background indianred. */
+    background-color: #D2122E;
+    opacity: 90%;
+    width: 50%;
+    margin: auto;
+}
+
+.opening-paragraph{
+    margin: auto;
+    color: #244523;
+    font-size: 16px;
+    width: 50%;
+    padding: 50px;
+    border-bottom: thick double #D2122E;
+    border-spacing: inherit;
+}
+
+.second-paragraph{
+    margin: auto;
+    font-size: 30px;
+    width: 50%;
+    padding: 50px;
+    border-bottom: thick double #D2122E;
+    border-spacing: inherit;
+}
+
+#relentless{
+  letter-spacing: 0.1em;
+}
+
+.third-paragraph{
+    margin: auto;
+    font-size: 16px;
+    width: 50%;
+    padding: 50px;
+    border-bottom: thick double #D2122E;
+    border-spacing: inherit;
+}
+
+.last-paragraph{
+    margin: auto;
+    font-size: 20px;
+    font-weight: 700;
+    width: 50%;
+    padding: 50px;
+    border-bottom: thick double #D2122E;
+    border-spacing: inherit;
+}
+
+.last-paragraph::first-line{
+    color: #D2122E;
+}
+
+#book_info{
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+#book_info:hover{
+    font-family:  'Oswald', sans-serif;
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+table{
+    margin: auto;
+    border: 1px solid black;
+    border-spacing: 1em .5em;
+    padding: 5px;
+    font-family:  'Oswald', sans-serif;
+    font-weight: 500;
+}
