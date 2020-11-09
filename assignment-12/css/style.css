@@ -1,0 +1,111 @@
+/* Style the page; */
+body{
+  font-family: 'Oswald', sans-serif;
+}
+
+div{
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+}
+
+.secondary-container{
+  font-size: 16px;
+  width: 100%;
+  margin-top: 1em;
+  border-bottom: thick double #4B6F44;
+  /*Add space between the boarder and its inside elements. */
+  padding: 20px;
+}
+
+/* Set your header design: */
+header {
+    position: fixed;
+    top: 0px;
+    background-color: darkolivegreen;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: right;
+}
+
+/* Set the layout of the menu: */
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: darkolivegreen;
+    padding: 0.5em 1em;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: seashell;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    text-decoration: underline;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color: darkolivegreen;
+    background-color: seashell;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: darkolivegreen;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: darkolivegreen;
+    background-color: seashell;
+}
+
+/* Style main content */
+.site-name{
+  float: left;
+  padding-right: 1em;
+  color: white;
+}
+
+.main-container {
+  margin-top: 3em;
+  line-height: 1em;
+  border-bottom: thick double #4B6F44;
+  padding: 10px;
+}
+
+.site-brand {
+  margin-bottom: 2em;
+  font-size: 100%;
+  text-align: center;
+}
+
+.mainimage{
+  float: left;
+}
